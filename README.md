@@ -1,1 +1,2 @@
 # Titanic-survival-predict
+This code tackles Titanic passenger survival prediction. It analyzes raw data, cleans it by filling missing values and creating new features, and encodes categorical variables. The data is then split for training and testing. A Random Forest model is built with Grid Search to optimize its hyperparameters. Finally, the model's performance is evaluated using accuracy, confusion matrix, and feature importance analysis to understand which factors most influence survival predictions.
